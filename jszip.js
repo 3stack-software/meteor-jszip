@@ -353,7 +353,7 @@ exports.createFolders = false;
 exports.date = null;
 exports.compression = null;
 exports.comment = null;
-exports.workerScriptPath = '/packages/3stack:jszip-worker-inflate/jszip.worker.min.js';
+exports.workerScriptPath = '/packages/3stack_jszip-worker-inflate/jszip.worker.min.js';
 
 },{}],7:[function(_dereq_,module,exports){
 'use strict';
